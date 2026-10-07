@@ -1,13 +1,6 @@
 <p align="center">
   <img src="./assets/proffesional-banner.png" width="100%" alt="Maheen Hamid - AI Engineer" />
 </p>
-<!-- ========================= -->
-<!--         BANNER            -->
-<!-- ========================= -->
-
-<p align="center">
-  <img src="./assets/github-banner.png" width="100%" alt="Maheen Hamid - AI Engineer" />
-</p>
 
 <!-- ========================= -->
 <!--     TYPING ANIMATION      -->
@@ -183,24 +176,14 @@ A production-oriented system for evaluating, comparing and improving Retrieval-A
 </p>
 
 ---
-
-# 🐍 Contributions
+## 📈 Contribution Activity
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/maheenhmd/maheenhmd/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/maheenhmd/maheenhmd/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake animation"
-      src="https://raw.githubusercontent.com/maheenhmd/maheenhmd/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=maheenhmd&theme=react-dark&hide_border=true"
+    width="100%"
+    alt="Maheen's GitHub activity graph"
+  />
 </p>
 
 ---
