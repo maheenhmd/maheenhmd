@@ -1,106 +1,109 @@
 <p align="center">
   <img src="./assets/proffesional-banner.png" width="100%" alt="Maheen Hamid - AI Engineer" />
 </p>
-<!-- =========================
-     ABOUT
-========================= -->
 
-## About
+━━━━━━━━━━ ABOUT ME ━━━━━━━━━━
 
-I'm an **AI Engineer** focused on building production-oriented AI systems that combine intelligent retrieval, backend engineering, and reliable AI workflows.
+Short introduction                    Animated AI GIF
+What you build                        / coding sticker
+Current focus
 
-I enjoy turning AI concepts into usable systems — from **RAG pipelines and vector search** to **agentic applications, evaluation systems, and full-stack AI products**.
+━━━━━━━━━━ CURRENTLY BUILDING ━━━━━━━━━━
 
----
+🔭 RAG Evaluation / Optimization
+🧠 Agentic AI
+⚙️ Production AI Systems
+📊 Evaluation Infrastructure
 
-<!-- =========================
-     CURRENT FOCUS
-========================= -->
+━━━━━━━━━━ 🛠 MY TOOLBOX ━━━━━━━━━━
 
-## Current Focus
+👩‍💻 Languages
+[Python] [TypeScript] [JavaScript] [...]
 
-- Building reliable **Retrieval-Augmented Generation (RAG)** systems
-- Designing **AI evaluation and benchmarking** workflows
-- Exploring **Agentic AI** and multi-step intelligent systems
-- Building production-ready APIs and AI infrastructure
-- Improving retrieval quality, observability, and system reliability
+🧠 AI / LLM Engineering
+[RAG] [LangChain] [LangGraph]
+[Embeddings] [Vector Search] [...]
 
----
+🧰 Frameworks & Libraries
+[FastAPI] [React] [Next.js] [...]
 
-<!-- =========================
-     FEATURED WORK
-========================= -->
+🗄 Databases & Vector Stores
+[PostgreSQL] [Redis] [Qdrant]
 
-## Featured Work
+☁️ Infrastructure / DevOps
+[Docker] [GitHub Actions] [...]
 
-### RAG Evaluation Harness
+💻 Software & Tools
+[VS Code] [Git] [GitHub]
+[Postman] [Linux] [...]
 
-A production-oriented platform for testing, comparing, and improving RAG pipelines across different retrieval and configuration strategies.
+━━━━━━━━━━ 🚀 FEATURED PROJECTS ━━━━━━━━━━
 
-**Currently working with:**
+      [animated / styled project cards]
 
-`Python` · `FastAPI` · `Qdrant` · `Embeddings` · `PostgreSQL` · `Redis` · `Docker`
+RAG Evaluation Harness
+Another flagship project
+Future project
 
-[View Repository →](https://github.com/maheenhmd/rag-evaluation-harness)
+━━━━━━━━━━ 📊 GITHUB ANALYTICS ━━━━━━━━━━
 
----
+       🔥 Animated Streak Card
 
-### More projects coming soon
+[ GitHub Stats ]      [ Top Languages ]
 
-I'm currently building additional AI systems focused on practical engineering problems, evaluation, automation, and intelligent workflows.
+━━━━━━━━━━ 📈 ACTIVITY ━━━━━━━━━━
 
----
+    Full-width animated activity graph
 
-<!-- =========================
-     CORE STACK
-========================= -->
+━━━━━━━━━━ 🐍 CONTRIBUTIONS ━━━━━━━━━━
 
-## Core Stack
+       animated snake eating
+       contribution squares
 
-**AI / LLM Engineering**
+━━━━━━━━━━ 3D CONTRIBUTIONS ━━━━━━━━━━
 
-`Python` · `RAG` · `LangChain` · `LangGraph` · `Vector Search` · `Embeddings`
+       3D contribution calendar
 
-**Backend & Data**
+━━━━━━━━━━ ⚡ RECENT ACTIVITY ━━━━━━━━━━
 
-`FastAPI` · `REST APIs` · `PostgreSQL` · `Redis` · `Qdrant`
+Automatically updated:
+⚡ pushed...
+✨ opened PR...
+📝 committed...
+⭐ contributed...
 
-**Infrastructure**
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-`Docker` · `Git` · `GitHub` · `CI/CD`
+         Animated gradient footer
+      Thanks for visiting ✨
 
-**Frontend**
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+👩‍💻 Programming Languages
 
-`TypeScript` · `React` · `Next.js`
+ Python   TypeScript   JavaScript   HTML   CSS
 
----
 
-<!-- =========================
-     CURRENTLY BUILDING
-========================= -->
+🧠 AI & LLM Engineering
 
-## Currently Building
+ RAG   LangChain   LangGraph   Embeddings
+ Vector Search   LLM APIs
 
-I'm currently focused on taking AI systems beyond demos — learning how to design them with proper:
 
-`Evaluation` · `Retrieval Quality` · `Scalability` · `Caching` · `Monitoring` · `Deployment`
+🧰 Frameworks & Libraries
 
-My goal is to build AI products that are not only intelligent, but also **measurable, maintainable, and production-ready**.
+ FastAPI   React   Next.js
 
----
 
-<!-- =========================
-     CONNECT
-========================= -->
+🗄 Databases & Storage
 
-## Connect
+ PostgreSQL   Redis   Qdrant
 
-I'm interested in **AI Engineering opportunities, internships, collaborations, and technically challenging AI projects**.
 
-<p align="left">
-  <a href="YOUR_PORTFOLIO_LINK">Portfolio</a>
-  &nbsp;•&nbsp;
-  <a href="YOUR_LINKEDIN_LINK">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:YOUR_EMAIL">Email</a>
-</p>
+⚙️ DevOps & Infrastructure
+
+ Docker   GitHub Actions   REST APIs
+
+
+💻 Software & Development Tools
+
+ VS Code   Git   GitHub   Postman   Linux
