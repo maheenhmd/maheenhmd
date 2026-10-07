@@ -166,28 +166,6 @@ A production-oriented system for evaluating, comparing and improving Retrieval-A
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=maheenhmd&bg_color=0D1117&color=A78BFA&line=38BDF8&point=EC4899&area=true&hide_border=true"
-    width="100%"
-  />
-</p>
-
----
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=maheenhmd&theme=react-dark&hide_border=true"
-    width="100%"
-    alt="Maheen's GitHub activity graph"
-  />
-</p>
-
----
-
 # 🤝 Connect
 
 <p align="center">
