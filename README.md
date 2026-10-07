@@ -1,109 +1,235 @@
 <p align="center">
   <img src="./assets/proffesional-banner.png" width="100%" alt="Maheen Hamid - AI Engineer" />
 </p>
+<!-- ========================= -->
+<!--         BANNER            -->
+<!-- ========================= -->
 
-━━━━━━━━━━ ABOUT ME ━━━━━━━━━━
+<p align="center">
+  <img src="./assets/github-banner.png" width="100%" alt="Maheen Hamid - AI Engineer" />
+</p>
 
-Short introduction                    Animated AI GIF
-What you build                        / coding sticker
-Current focus
+<!-- ========================= -->
+<!--     TYPING ANIMATION      -->
+<!-- ========================= -->
 
-━━━━━━━━━━ CURRENTLY BUILDING ━━━━━━━━━━
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Building+Production-Ready+AI+Systems;RAG+%E2%80%A2+Agentic+AI+%E2%80%A2+Evaluation;Turning+AI+Ideas+Into+Reliable+Software"
+    alt="Typing animation"
+  />
+</p>
 
-🔭 RAG Evaluation / Optimization
-🧠 Agentic AI
-⚙️ Production AI Systems
-📊 Evaluation Infrastructure
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maheenhmd&label=Profile%20Views&color=8B5CF6&style=for-the-badge" />
+</p>
 
-━━━━━━━━━━ 🛠 MY TOOLBOX ━━━━━━━━━━
+---
 
-👩‍💻 Languages
-[Python] [TypeScript] [JavaScript] [...]
+## 👩‍💻 About Me
 
-🧠 AI / LLM Engineering
-[RAG] [LangChain] [LangGraph]
-[Embeddings] [Vector Search] [...]
+<table>
+<tr>
+<td width="65%" valign="top">
 
-🧰 Frameworks & Libraries
-[FastAPI] [React] [Next.js] [...]
+I'm an **AI Engineer** focused on building production-oriented AI systems.
 
-🗄 Databases & Vector Stores
-[PostgreSQL] [Redis] [Qdrant]
+My current interests include:
 
-☁️ Infrastructure / DevOps
-[Docker] [GitHub Actions] [...]
+- Retrieval-Augmented Generation
+- Agentic AI
+- AI evaluation systems
+- Vector search
+- Backend engineering
+- Production AI infrastructure
 
-💻 Software & Tools
-[VS Code] [Git] [GitHub]
-[Postman] [Linux] [...]
+I enjoy turning AI concepts into complete software systems with APIs, databases, retrieval pipelines and user-facing applications.
 
-━━━━━━━━━━ 🚀 FEATURED PROJECTS ━━━━━━━━━━
+</td>
 
-      [animated / styled project cards]
+<td width="35%" align="center">
 
-RAG Evaluation Harness
-Another flagship project
-Future project
+<img
+  src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d0454cdbe1c.gif"
+  width="260"
+/>
 
-━━━━━━━━━━ 📊 GITHUB ANALYTICS ━━━━━━━━━━
+</td>
+</tr>
+</table>
 
-       🔥 Animated Streak Card
+---
 
-[ GitHub Stats ]      [ Top Languages ]
+## 🚀 Currently Building
 
-━━━━━━━━━━ 📈 ACTIVITY ━━━━━━━━━━
+<p align="center">
 
-    Full-width animated activity graph
+<img src="https://img.shields.io/badge/RAG%20Evaluation-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agentic%20AI-EC4899?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Production%20AI-38BDF8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Evaluation-A78BFA?style=for-the-badge" />
 
-━━━━━━━━━━ 🐍 CONTRIBUTIONS ━━━━━━━━━━
+</p>
 
-       animated snake eating
-       contribution squares
+---
 
-━━━━━━━━━━ 3D CONTRIBUTIONS ━━━━━━━━━━
+# 🛠 My Toolbox
 
-       3D contribution calendar
+## 👩‍💻 Programming Languages
 
-━━━━━━━━━━ ⚡ RECENT ACTIVITY ━━━━━━━━━━
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css&theme=dark" />
+</p>
 
-Automatically updated:
-⚡ pushed...
-✨ opened PR...
-📝 committed...
-⭐ contributed...
+## 🧠 AI & LLM Engineering
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<p align="center">
 
-         Animated gradient footer
-      Thanks for visiting ✨
+<img src="https://img.shields.io/badge/RAG-EC4899?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Embeddings-A78BFA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector%20Search-38BDF8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM%20APIs-111827?style=for-the-badge" />
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-👩‍💻 Programming Languages
+</p>
 
- Python   TypeScript   JavaScript   HTML   CSS
+## 🧰 Frameworks & Libraries
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,react,nextjs&theme=dark" />
+</p>
 
-🧠 AI & LLM Engineering
+## 🗄 Databases & Vector Stores
 
- RAG   LangChain   LangGraph   Embeddings
- Vector Search   LLM APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
+</p>
 
-🧰 Frameworks & Libraries
+## ⚙️ DevOps & Infrastructure
 
- FastAPI   React   Next.js
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,github,git&theme=dark" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-8B5CF6?style=for-the-badge" />
+</p>
 
-🗄 Databases & Storage
+## 💻 Software & Development Tools
 
- PostgreSQL   Redis   Qdrant
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,linux,windows&theme=dark" />
+</p>
 
+---
 
-⚙️ DevOps & Infrastructure
+# 🚀 Featured Project
 
- Docker   GitHub Actions   REST APIs
+## RAG Evaluation Harness
 
+A production-oriented system for evaluating, comparing and improving Retrieval-Augmented Generation pipelines.
 
-💻 Software & Development Tools
+<p align="center">
+  <a href="https://github.com/maheenhmd/rag-evaluation-harness">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=maheenhmd&repo=rag-evaluation-harness&theme=tokyonight&hide_border=true"
+    />
+  </a>
+</p>
 
- VS Code   Git   GitHub   Postman   Linux
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=maheenhmd&show_icons=true&theme=tokyonight&hide_border=true"
+  height="170"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheenhmd&layout=compact&theme=tokyonight&hide_border=true"
+  height="170"
+/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=maheenhmd&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=maheenhmd&bg_color=0D1117&color=A78BFA&line=38BDF8&point=EC4899&area=true&hide_border=true"
+    width="100%"
+  />
+</p>
+
+---
+
+# 🐍 Contributions
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/maheenhmd/maheenhmd/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/maheenhmd/maheenhmd/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/maheenhmd/maheenhmd/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+---
+
+# 🤝 Connect
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contact-EC4899?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:38BDF8&height=120&section=footer"
+  width="100%"
+/>
+
+</p>
